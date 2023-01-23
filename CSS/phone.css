@@ -68,8 +68,10 @@
     margin-top: 36px;
 }
 /* Contact Us Section */
+#contact{
+    margin-bottom: 70px;
+}
 #contact::before{
-    min-height: 54%;
     margin-top: -57px;
 }
 #contactbox label{
