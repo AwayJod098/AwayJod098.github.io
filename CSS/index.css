@@ -3,6 +3,10 @@
     margin: 0px;
     padding: 0px;
 }
+/* HTML Scrolling */
+html, body{
+    scroll-behavior: smooth !important;
+}
 /* CSS Variables */
 /* This is Only For Show To Remind Me Use Variables For My Next Websites */
 :root{

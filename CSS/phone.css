@@ -16,16 +16,20 @@
 #home::before{
     min-height: 400px;
 }
+#home h1{
+    font-size: 1.8rem;
+    width: 337px;
+}
 .heading-p{
     font-size: 1.5rem;
     padding: 0px;
     margin-top: 97px;
 }
 #home p{
-    font-size: 0.8rem;
+    font-size: 1.4rem;
     margin: 0px -66px;
-    word-break: break-word;
-    width: 170px;
+    padding: 2px 13px 13px;
+    width: 231px;
 }
 /* Utility Classes */
 .btn{
