@@ -1,12 +1,11 @@
 /* Navigation Section */
 #navbar{
     flex-direction: column;
-    margin-bottom: -30px;
+    margin-bottom: -74px;
 }
 #navbar ul li a{
-
     font-size: 1rem;
-    padding: 3px 2px;
+    padding: 17px 17px;
 }
 /* Home Section */
 #home{
