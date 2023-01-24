@@ -4,7 +4,7 @@
     padding: 0px;
 }
 /* HTML Scrolling */
-html, body{
+html{
     scroll-behavior: smooth !important;
 }
 /* CSS Variables */
@@ -176,7 +176,7 @@ html, body{
     background: url(/img/contactusbg.jpg)no-repeat center center/cover;
     position: absolute;
     width: 100%;
-    height: 37%;
+    height: 54%;
     z-index: -1;
     opacity: 0.4;
 }
@@ -187,7 +187,7 @@ html, body{
     margin: 3px;
 }
 #contactbox input{
-    width: 40%;
+    width: 90%;
     padding: 0.5rem;
 }
 #contactbox label{

@@ -3,4 +3,13 @@
     padding: 0px;
     margin: 0px;
 }
-/* ------------ */
+.container{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+}
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    margin: 3px;
+}
